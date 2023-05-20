@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KTA_Task_05/1.0.0": {
+        "runtime": {
+          "KTA_Task_05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KTA_Task_05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

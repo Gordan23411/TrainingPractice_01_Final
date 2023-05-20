@@ -1,0 +1,15 @@
+D:\TrainingPractice_01\111112\KTA_Task_06\bin\Debug\net6.0\KTA_Task_06.exe
+D:\TrainingPractice_01\111112\KTA_Task_06\bin\Debug\net6.0\KTA_Task_06.deps.json
+D:\TrainingPractice_01\111112\KTA_Task_06\bin\Debug\net6.0\KTA_Task_06.runtimeconfig.json
+D:\TrainingPractice_01\111112\KTA_Task_06\bin\Debug\net6.0\KTA_Task_06.dll
+D:\TrainingPractice_01\111112\KTA_Task_06\bin\Debug\net6.0\KTA_Task_06.pdb
+D:\TrainingPractice_01\111112\KTA_Task_06\obj\Debug\net6.0\KTA_Task_06.csproj.AssemblyReference.cache
+D:\TrainingPractice_01\111112\KTA_Task_06\obj\Debug\net6.0\KTA_Task_06.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingPractice_01\111112\KTA_Task_06\obj\Debug\net6.0\KTA_Task_06.AssemblyInfoInputs.cache
+D:\TrainingPractice_01\111112\KTA_Task_06\obj\Debug\net6.0\KTA_Task_06.AssemblyInfo.cs
+D:\TrainingPractice_01\111112\KTA_Task_06\obj\Debug\net6.0\KTA_Task_06.csproj.CoreCompileInputs.cache
+D:\TrainingPractice_01\111112\KTA_Task_06\obj\Debug\net6.0\KTA_Task_06.dll
+D:\TrainingPractice_01\111112\KTA_Task_06\obj\Debug\net6.0\refint\KTA_Task_06.dll
+D:\TrainingPractice_01\111112\KTA_Task_06\obj\Debug\net6.0\KTA_Task_06.pdb
+D:\TrainingPractice_01\111112\KTA_Task_06\obj\Debug\net6.0\KTA_Task_06.genruntimeconfig.cache
+D:\TrainingPractice_01\111112\KTA_Task_06\obj\Debug\net6.0\ref\KTA_Task_06.dll
